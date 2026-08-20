@@ -13,7 +13,7 @@ DSA-Java-Questions/
 │   └── CSEP-Classes/
 │
 ├── Strings/
-│   └── CSEP/
+│   └── CSEP-Classes/
 │
 └── README.md
 ```
